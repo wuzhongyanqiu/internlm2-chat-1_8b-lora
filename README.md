@@ -1,0 +1,1 @@
+internlm2-chat-1_8b上微调的个人认知模型
